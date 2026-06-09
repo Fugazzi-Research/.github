@@ -23,9 +23,8 @@ verificável, e todo histórico que mostramos inclui os acertos e os erros.
 
 | Carteira | Universo | Benchmark |
 | --- | --- | --- |
-| **Fugazzi Ações BR** | Ações brasileiras | CDI |
+| **Fugazzi Ações BR** | Ações brasileiras | Ibovespa |
 | **Fugazzi Crypto** | Criptoativos | Bitcoin |
-| **Fugazzi Global** | Ações americanas | S&P 500 |
 
 Cada recomendação carrega tese, catalisadores, preço de entrada, preço-alvo e o analista
 responsável com seu registro CNPI. O track record é marcado a mercado em tempo real.
